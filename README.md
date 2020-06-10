@@ -12,3 +12,5 @@ Program implements Run-length encoding, Huffman and Lempel-Ziv compression algor
 For Images:
 
 ![alt text](https://github.com/mhal1/ASCII_File_compression_decompression/blob/master/image4.png?raw=true)
+
+For more information, refer to the analysis report in the main folder.
